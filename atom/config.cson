@@ -1,0 +1,61 @@
+"*":
+  "activate-power-mode":
+    autoToggle: false
+    particles:
+      colours:
+        type: "random"
+      size:
+        max: 10
+        min: 3
+    playAudio: {}
+    screenShake:
+      enabled: false
+  "atom-beautify":
+    general:
+      _analyticsUserId: "df1c5d3b-7129-4d46-b065-f33eb677e72f"
+  core:
+    allowPendingPaneItems: false
+    audioBeep: false
+    automaticallyUpdate: false
+    closeEmptyWindows: false
+    disabledPackages: [
+      "activate-power-mode"
+      "composer-atom-plugin"
+      "git-plus"
+      "js-hyperclick"
+      "split-diff"
+      "node-debugger"
+      "minimap-split-diff"
+      "merge-conflicts"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 15
+    tabType: "soft"
+  "exception-reporting":
+    userId: "7a87a370-fbd5-a07c-2290-6607ca8438c9"
+  "git-plus":
+    general:
+      _analyticsUserId: "aed585c7-1ced-48f0-896d-48c651373956"
+  linter: {}
+  "linter-ui-default":
+    panelHeight: 69
+  minimap:
+    adjustAbsoluteModeHeight: true
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
+  tabs:
+    enableVcsColoring: true
+  "tool-bar":
+    position: "Right"
+  "tree-view":
+    autoReveal: true
+  welcome:
+    showOnStartup: false
