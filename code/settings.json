@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+			"editor.tabSize": 2,
+			"window.zoomLevel": 0,
+			"editor.fontSize": 15,
+			"explorer.openEditors.visible": 0,
+			"workbench.colorTheme": "One Dark Pro",
+			"workbench.iconTheme": "vscode-icons",
+			"docker.showExplorer": false,
+			"workbench.startupEditor": "none",
+			"explorer.confirmDragAndDrop": false,
+			"vsicons.dontShowNewVersionMessage": true,
+			"importCost.smallPackageColor": "#2f5f3b",
+			"importCost.mediumPackageColor": "#2f5f3b",
+			"importCost.largePackageColor": "#b04e40"
+		}
